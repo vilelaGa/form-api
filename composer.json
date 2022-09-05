@@ -1,0 +1,11 @@
+{
+  "name": "api/form",
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  },
+  "require": {
+    "coffeecode/router": "^1.0"
+  }
+}
